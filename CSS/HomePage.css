@@ -1,0 +1,43 @@
+body{margin: 0;padding: 0;font-size: 12px;color: #000;}
+body{background: url(../images/bg2.gif) repeat;}
+div,p,ul,li,img,dl,dt,dd,h2{margin: 0;padding: 0;list-style: none;border: 0;}
+.top{width: 960px;height: 150px;background: url(../images/top.jpg) repeat-x;margin: 0 auto;}
+.topZi{font-family: 华文行楷;font-size: 30px;padding: 35px 0 0 18px;}
+
+.topLeft{float: right;margin:20px 40px 0 0 ;border-top: 1px solid #8C8C00;border-bottom: 1px solid green;}
+.topLeft li{height: 32px;line-height: 34px;float: left;margin-right: 29px;font-family: 华文行楷;}
+.topLeft a:link,.topLeft a:visited{font-size: 20px;text-decoration: none;color: #73BF00;}
+.topLeft a:hover{color: #AD5A5A;background: url(../images/nva1.jpg) repeat-x;}
+
+.content{width: 960px;overflow: hidden;margin: 0 auto;background-color: #fefefe;}
+.up{width: 355px;height: 280px;margin-top: 30px;}
+.up h2{border-top: 1px dashed #8C8C00;border-bottom: 1px dashed #8C8C00;padding: 5px 0 5px 15px;}
+.up1{width: 335px;height: 240px;margin-top: 20px;margin-left: 25px;}
+.up1 li{height:25px;line-height:25px;}
+.up1 li a:link,.up1 li a:visited{font-size:14px;color:#467500;text-decoration:none;}
+.up1 li a:hover{color:#548C00;text-decoration:underline;}
+
+.middle{width: 355px;height: 280px;}
+.middle h2{border-top: 1px dashed #8C8C00;border-bottom: 1px dashed #8C8C00;padding: 5px 0 5px 15px;}
+
+.bottom{width: 355px;overflow: hidden;}
+.bottom h2{border-top: 1px dashed #8C8C00;border-bottom: 1px dashed #8C8C00;padding: 5px 0 5px 15px;}
+.bottom h2 a:link,.bottom h2 a:visited{color:#000;text-decoration:none;font-size: 14px;}
+
+.bottom1{margin-top: 20px;margin-left: 25px;}
+.bottom1 ul li{height:25px;line-height:25px;padding-left:10px;}
+.bottom1 li a:link,.bottom1 li a:visited{font-size:14px;color:#467500;text-decoration:none;}
+.bottom1 li a:hover{color:#548C00;text-decoration:underline;}
+
+.all{margin:10px 0 0 260px;}
+.all a:link,.all a:visited{font-size:12px;color:#467500;text-decoration:none;}
+.all a:hover{color:#548C00;text-decoration:underline;}
+
+.down{width: 960px;overflow:hidden;background-color: #fefefe;margin: 0 auto;}
+.shengming{text-align: center;padding-top: 60px;}
+.shengming a:link,#shengming a:visited{font-size:14px;color:#AFAF61;text-decoration:none;}
+.shengming a:hover{color: #AD5A5A;background: url(../images/nva1.jpg) repeat-x;}
+
+.banquan{text-align: center;margin: 20px 0 50px 0;color: #AFAF61;font-size: 14px;}
+
+.niTop{width: 960px;height: 50px;background: url(../images/down1.jpg) repeat-x;margin: 0 auto;}
